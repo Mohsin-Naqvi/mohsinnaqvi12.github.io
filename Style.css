@@ -1,0 +1,17 @@
+.btn-danger{
+	
+	background-color: Yellow
+	
+	
+}
+
+.btn-danger:hover{
+	
+	background-color: Pink
+
+	}
+	
+.col{
+	background-color: grey;
+	border:2px solid black;
+}
